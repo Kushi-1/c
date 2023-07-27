@@ -1,0 +1,4 @@
+main(){
+	adding();
+	factorial();
+}
